@@ -44,8 +44,14 @@ class Inicio extends CI_Controller {
     $this->load->view('enviarPostales');
     $this->load->view('footer');
   }
+  public function queEres(){
+    $this->load->view('header');
+    $this->load->view('queEres');
+  
+  }
+
   public function vistaInicioSes(){
-    $this->load->view('headerInicio');
+    $this->load->view('header');
     $this->load->view('InicioWork');
     $this->load->view('footer');
   }

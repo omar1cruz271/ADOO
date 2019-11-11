@@ -1,9 +1,7 @@
 .fixed-top{
     background-color: #6C1D45;
 }
-html{
-    background-color: #6C1D45;
-}
+
 #sect1{
 color: white;
 }
@@ -20,4 +18,9 @@ body{
 .navbar-light .navbar-nav .active.nav-link  {
      color: white;
     }
+.navbar-light .navbar-brand {
+    font-family: 'Courier New', Courier, monospace;
     
+    color: white;
+    align-items: center;
+    }
