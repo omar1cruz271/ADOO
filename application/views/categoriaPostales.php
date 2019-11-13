@@ -12,8 +12,8 @@
                
                 <div class="row">
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="<?php base_url(); ?>enviarPostales"><img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"  ></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/factureras/em/volkswagen.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/factureras/em/volkswagen.jpg"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/factureras/em/volaris.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/factureras/em/volaris.jpg"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/factureras/em/volkswagen.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/factureras/em/volkswagen.jpg"></a></div>        
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/ibm.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/ibm.jpg"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/google.png"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/google.png"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/microsoft.jpgg"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/microsoft.jpg"></a></div>
