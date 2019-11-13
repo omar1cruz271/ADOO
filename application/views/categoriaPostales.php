@@ -18,8 +18,12 @@
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/servicios/santander.png"><img class="img-thumbnail img-fluid image" src="assets/img/servicios/santander.png"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/servicios/bancomer.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/servicios/bancomer.jpg"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/mercado/sams.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/mercado/sams.jpg"></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/mercado/costco.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/mercado/costco.jpg"></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/banco.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/banco.jpg"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/mercado/costco.png"><img class="img-thumbnail img-fluid image" src="assets/img/mercado/costco.png"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/mercado/liverpool.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/mercado/liverpool.jpg"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/ibm.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/ibm.jpg"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/google.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/google.jpg"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/microsoft.png"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/microsfot.jpg"></a></div>
+                  
                 </div>
             </div>
         </section>
