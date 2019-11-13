@@ -15,8 +15,11 @@
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/factureras/em/volkswagen.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/factureras/em/volkswagen.jpg"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/factureras/em/volaris.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/factureras/em/volaris.jpg"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/ibm.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/ibm.jpg"></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/google.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/google.jpg"></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/microsoft.png"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/microsoft.png"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/google.png"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/google.png"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/microsoft.jpgg"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/microsoft.jpg"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/dell.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/dell.jpg"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/accenture.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/accenture.jpg"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/tecnologia/teradata.png"><img class="img-thumbnail img-fluid image" src="assets/img/tecnologia/teradata.png"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/servicios/banco.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/servicios/banco.jpg"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/servicios/santander.png"><img class="img-thumbnail img-fluid image" src="assets/img/servicios/santander.png"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/servicios/bancomer.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/servicios/bancomer.jpg"></a></div>
