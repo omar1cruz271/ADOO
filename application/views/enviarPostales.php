@@ -26,7 +26,7 @@
                 <div class="row">
                     <div class="col-sm">
                     <br>
-                    <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/postales/amor-amistad/image1.jpg"  >
+                    <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"  >
                     
                     </a></div>
                     
