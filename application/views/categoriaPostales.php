@@ -17,8 +17,8 @@
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/servicios/banco.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/servicios/banco.jpg"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/servicios/santander.png"><img class="img-thumbnail img-fluid image" src="assets/img/servicios/santander.png"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/servicios/bancomer.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/servicios/bancomer.jpg"></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/image6.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/image6.jpg"></a></div>
-                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/image5.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/image5.jpg"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/mercado/sams.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/mercado/sams.jpg"></a></div>
+                    <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/mercado/costco.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/mercado/costco.jpg"></a></div>
                     <div class="col-md-6 col-lg-4 item"><a class="lightbox" href="assets/img/scenery/banco.jpg"><img class="img-thumbnail img-fluid image" src="assets/img/scenery/banco.jpg"></a></div>
                 </div>
             </div>
