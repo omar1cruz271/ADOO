@@ -63,7 +63,7 @@
             </div>
             <div class="carousel slide" data-ride="carousel" id="carousel-1">
                 <div class="carousel-inner" role="listbox">
-                    <div class="carousel-item active"><img class="w-100 d-block" src="assets/img/factureras/em/vol.jpg" alt="Slide Image"></div>
+                    <div class="carousel-item active"><img class="w-100 d-block" src="assets/img/factureras/em/vol.png" alt="Slide Image"></div>
                     <div class="carousel-item"><img class="w-100 d-block" src="assets/img/tecnologia/microsoft.jpg" alt="Slide Image"></div>
                     <div class="carousel-item"><img class="w-100 d-block" src="assets/img/mercado/sams.jpg" alt="Slide Image"></div>
                     <div class="carousel-item"><img class="w-100 d-block" src="assets/img/servicios/banco.jpg" alt="Slide Image"></div>
