@@ -26,10 +26,16 @@
                 <div class="row">
                     <div class="col-sm">
                     <br>
-                    <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg">
-                    </br>
+                    <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"></br>
                     </a></div>
-                    
+                
+                <div class="row">
+                    <div class="text">
+                        <h1>Aeroméxico es una compañia que busca ingenieros en el aréa de mecanica. </h1>
+                    </div>
+                </div>
+
+                
                 </div>
             </div>
         </section>
