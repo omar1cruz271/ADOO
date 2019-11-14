@@ -82,7 +82,7 @@
     <section id="sect2" class="clean-block about-us">
         <div class="container">
             <div class="block-heading">
-                <h2 class="text-White">Acerca de nosotros</h2>
+                <h2 class="text-info">Acerca de nosotros</h2>
                 <p>Encuentra información acerca de cada uno de los desarrolladores</p>
             </div>
             <div class="row justify-content-center">
