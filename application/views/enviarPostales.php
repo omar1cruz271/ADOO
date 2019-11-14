@@ -29,7 +29,7 @@
                     <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"></br>
                     </a></div>
                 
-                    <div class="text">
+                    <div class="text-info">
                         <p aligh="left">
                         Aeroméxico es una compañia que busca ingenieros en el aréa de mecanica. </p>
                     </div>
