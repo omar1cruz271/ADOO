@@ -30,7 +30,9 @@
                     </a></div>
                 <div class="col-md-6">
                     <div class=>       
-                        <p>Aeroméxico es un sitio para todas aquellassitio para todas aquellassitio para todas aquellassitio para todas aquellassitio para todas aquellassitio para todas aquellassitio para todas aquellas</p>
+                        <p>Aeroméxico es la aerolínea de bandera mexicana con base en el Aeropuerto Internacional de la 
+                        Ciudad de México; realizando vuelos directos hacia/desde México, Estados Unidos, Canadá, el Caribe, 
+                        Centro y Sudamérica, Europa y Asia</p>
                     </div>
                 </div>
              
