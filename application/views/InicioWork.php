@@ -58,8 +58,8 @@
     <section class="clean-block slider dark">
         <div class="container">
             <div class="block-heading">
-                <h2 class="text-info">Slider</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna, dignissim nec auctor in, mattis vitae leo.</p>
+                <h2 class="text-info">Convenios</h2>
+                <p>Checa las empresas que tienen convenio con el IPN.</p>
             </div>
             <div class="carousel slide" data-ride="carousel" id="carousel-1">
                 <div class="carousel-inner" role="listbox">
