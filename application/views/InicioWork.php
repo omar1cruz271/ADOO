@@ -90,7 +90,7 @@
                     <div class="card clean-card text-center">
                         <div class="card-body info">
                             <h4 class="card-title">Sandra Calderón</h4>
-                            <p class="card">Carrera: Ing. Mecanica</p>
+                            <p class="card-text">Carrera: Ing. Mecanica</p>
                             <div class="icons"><a href="#"><i class="icon-social-facebook"></i></a><a href="#"><i class="icon-social-instagram"></i></a><a href="#"><i class="icon-social-twitter"></i></a></div>
                         </div>
                     </div>
@@ -99,7 +99,7 @@
                     <div class="card clean-card text-center">
                         <div class="card-body info">
                             <h4 class="card-title">Omar Cruz</h4>
-                            <p class="card">Carrera: Ing. Sistemas Cmputacionales.</p>
+                            <p class="card-text">Carrera: Ing. Sistemas Cmputacionales.</p>
                             <div class="icons"><a href="#"><i class="icon-social-facebook"></i></a><a href="#"><i class="icon-social-instagram"></i></a><a href="#"><i class="icon-social-twitter"></i></a></div>
                         </div>
                     </div>
@@ -108,7 +108,7 @@
                     <div class="card clean-card text-center">
                         <div class="card-body info">
                             <h4 class="card-title">Karen Cruz</h4>
-                            <p class="card">Carrera: Ing. Comunicaciones y eletrónica.</p>
+                            <p class="card-text">Carrera: Ing. Comunicaciones y eletrónica.</p>
                             <div class="icons"><a href="#"><i class="icon-social-facebook"></i></a><a href="#"><i class="icon-social-instagram"></i></a><a href="#"><i class="icon-social-twitter"></i></a></div>
                         </div>
                     </div>
