@@ -3,7 +3,7 @@
         <section class="clean-block clean-gallery dark">
             <div class="container">
                 <div class="block-heading" style="padding-top: 140px;">
-                    <h2 class="text-info">Postales</h2>
+                    <h2 class="text-info">Aeroméxico</h2>
                 </div>
                 
                 
