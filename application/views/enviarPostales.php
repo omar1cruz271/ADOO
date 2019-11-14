@@ -31,7 +31,8 @@
                 
                 <div class="row">
                     <div class="text">
-                        <p>Aeroméxico es una compañia que busca ingenieros en el aréa de mecanica. </p>
+                        <p>
+                        Aeroméxico es una compañia que busca ingenieros en el aréa de mecanica. </p>
                     </div>
                 </div>
 
