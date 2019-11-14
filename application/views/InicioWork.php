@@ -20,7 +20,7 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna, dignissim nec auctor in, mattis vitae leo.</p>
             </div>
             <div class="row align-items-center">
-                <div class="col-md-6"><img class="img-thumbnail" src="assets/img/factureras/em/aeromexico.jpg"></div>
+                <div class="col-md-6"><img class="img-thumbnail" src="assets/img/oferta.jpg"></div>
                 <div class="col-md-6">
                     <h3>Lorem impsum dolor sit amet</h3>
                     <div class="getting-started-info">
