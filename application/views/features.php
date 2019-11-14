@@ -5,7 +5,7 @@
         <section class="clean-block features">
             <div class="container">
                 <div class="block-heading">
-                    <h2 class="text-info">Registrate y conoce los beneficios</h2>
+                    <h2 class="text-white">Registrate y conoce los beneficios</h2>
                     <p>Empieza en el mundo laboral o incrementa el valor humano de tu empresa</p>
                 </div>
                 <div class="row justify-content-center">
