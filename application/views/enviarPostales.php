@@ -27,13 +27,12 @@
                     <div class="col-sm">
                     <br>
                     <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"></br>
+                    <div class="getting-started-info">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    </div>
                     </a></div>
                 
-                    <div class="text-info">
-                        <p aligh="left">
-                        Aeroméxico es una compañia que busca ingenieros en el aréa de mecanica. </p>
-                    </div>
-             
+                   
                 </div>
             </div>
         </section>
