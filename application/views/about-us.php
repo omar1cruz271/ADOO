@@ -6,8 +6,8 @@
         <section class="clean-block about-us">
             <div class="container">
                 <div class="block-heading">
-                    <h2 class="text-info">Acerca de nosotros</h2>
-                    <p>Encuentra información acerca de cada uno de los desarrolladores</p>
+                    <h2 class="text-white">Acerca de nosotros</h2>
+                    <p style="color:white">Encuentra información acerca de cada uno de los desarrolladores</p>
                 </div>
                 <div class="row justify-content-center">
                 <div class="col-sm-6 col-lg-4">
