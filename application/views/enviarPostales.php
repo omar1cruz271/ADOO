@@ -28,11 +28,11 @@
                     <br>
                     <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"></br>
                     </a></div>
-                
+                <div class="col-md-6">
                     <div class=>       
-                        <p>Aeroméxico es un sitio para todas aquellas</p>
+                        <p>Aeroméxico es un sitio para todas aquellassitio para todas aquellassitio para todas aquellassitio para todas aquellassitio para todas aquellassitio para todas aquellassitio para todas aquellas</p>
                     </div>
-
+                </div>
              
                 </div>
             </div>
