@@ -22,7 +22,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6"><img class="img-thumbnail" src="assets/img/oferta.jpg"></div>
                 <div class="col-md-6">
-                    <h3>¡Únete a nosotros!</h3>
+                    <h3 class="text-info">¡Únete a nosotros!</h3>
                     <div class="getting-started-info">
                         <p>Podrás encontrar a tu mejor empleado</p>
                     </div><button class="btn btn-outline-primary btn-lg" type="button">Join Now</button></div>
