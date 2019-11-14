@@ -29,11 +29,11 @@
                     <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"  >
                     
 
-                    <div class="row">
-                      <div class="col-sm">
-                           <h2 class="text-info">Aeroméxico es una sitio de manufactura</h2>
+                    
+                      <div class="col">
+                           <p class="text-info">Aeroméxico es una sitio de manufactura</p>
                       </div>
-                    </div>
+                    
 
 
 
