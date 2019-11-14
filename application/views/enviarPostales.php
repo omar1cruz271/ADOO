@@ -29,7 +29,7 @@
                     <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"></br>
                     </a></div>
                 
-                    <div class="getting-started-info">       
+                    <div class=>       
                         <p>Aeroméxico es un sitio para todas aquellas</p>
                     </div>
 
