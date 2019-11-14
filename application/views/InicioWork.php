@@ -58,8 +58,8 @@
     <section class="clean-block slider dark">
         <div class="container">
             <div class="block-heading">
-                <h2 class="text-info">Convenios</h2>
-                <p>Checa las empresas que tienen convenio con el IPN.</p>
+                <h2 class="text-info">Empresas</h2>
+                <p>"El fundamento de cada empresa es el talento humano"</p>
             </div>
             <div class="carousel slide" data-ride="carousel" id="carousel-1">
                 <div class="carousel-inner" role="listbox">
