@@ -27,12 +27,12 @@
                     <div class="col-sm">
                     <br>
                     <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"></br>
-                    <div class="getting-started-info">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    </div>
                     </a></div>
                 
-                   
+                    <div class="getting-started-info">
+                        <p>Aeroméxico es un sitio para todas aquellas personas que quieran visitar y viajar distintos lugares a travez de toda la republica mexicana</p>
+                    </div>
+             
                 </div>
             </div>
         </section>
