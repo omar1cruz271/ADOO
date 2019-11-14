@@ -26,17 +26,8 @@
                 <div class="row">
                     <div class="col-sm">
                     <br>
-                    <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"  >
-                    
-
-                    
-                      <div class="col">
-                           <p class="text-info">Aeroméxico es una sitio de manufactura</p>
-                      </div>
-                    
-
-
-
+                    <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg">
+                    </br>
                     </a></div>
                     
                 </div>
