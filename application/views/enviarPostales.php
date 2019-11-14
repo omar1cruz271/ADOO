@@ -35,10 +35,8 @@
                         Centro y Sudamérica, Europa y Asia</p>
                     </div>
                 </div>
-             
                 </div>
-                
-
+            
                 <div class="block-heading">
                 <h4 class="text-info">Localidad</h4>
                 <p> Av. Capitán Carlos León S/N, Peñón de los Baños, Venustiano Carranza, 15620 Ciudad de México, CDMX </p>
