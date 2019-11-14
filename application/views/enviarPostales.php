@@ -31,11 +31,11 @@
                 
                 <div class="row">
                     <div class="text">
-                        <h1>Aeroméxico es una compañia que busca ingenieros en el aréa de mecanica. </h1>
+                        <h4>Aeroméxico es una compañia que busca ingenieros en el aréa de mecanica. </h4>
                     </div>
                 </div>
 
-                
+
                 </div>
             </div>
         </section>
