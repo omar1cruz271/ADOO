@@ -29,10 +29,8 @@
                     <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"></br>
                     </a></div>
                 
-                    <div class="getting-started-info">
-                    
-                        <p align="left">Aeroméxico es un sitio para todas aquellas personas que quieran visitar y viajar distintos lugares a travez de toda la republica mexicana</p>
-                   
+                    <div class="getting-started-info">       
+                        <p>Aeroméxico es un sitio para todas aquellas</p>
                     </div>
 
              
