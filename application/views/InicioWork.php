@@ -6,8 +6,8 @@
     
     <section class="clean-block clean-hero" style="background-image:url(&quot;assets/img/tech/img1.jpg&quot;);color:rgba(0,0,0,.6);">
         <div class="text">
-            <h2>BIENVENIDO</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna, dignissim nec auctor in, mattis vitae leo.</p>
+            <h2>¡BIENVENIDO!</h2>
+            <p>Encuentra las ofertas de trabajo más cercanas a tu localidad.</p>
             <form action="POST"><button class="btn btn-outline-light btn-lg" type="button"  onclick=" location.href='<?php base_url(); ?>login'">Empieza ahora</button></div>
             </form>
         </section>
@@ -16,8 +16,8 @@
     <section class="clean-block clean-info dark">
         <div class="container">
             <div class="block-heading">
-                <h2 class="text-info">Info</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna, dignissim nec auctor in, mattis vitae leo.</p>
+                <h2 class="text-info">Información.</h2>
+                <p>WorkEng es un sitio que te ayudara a encontrar empleo o empleados de una manera muy sencilla. </p>
             </div>
             <div class="row align-items-center">
                 <div class="col-md-6"><img class="img-thumbnail" src="assets/img/oferta.jpg"></div>
