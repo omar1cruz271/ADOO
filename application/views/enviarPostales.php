@@ -23,7 +23,7 @@
 </div>
                 </form>
                 
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-sm">
                     <br>
                     <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"></br>
@@ -37,6 +37,9 @@
                 </div>
              
                 </div>
+
+
+
             </div>
         </section>
     </main>
