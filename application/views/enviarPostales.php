@@ -29,13 +29,11 @@
                     <img  class="img-thumbnail img-fluid image" id="img1" src="assets/img/factureras/em/aeromexico.jpg"></br>
                     </a></div>
                 
-                <div class="row">
                     <div class="text">
-                        <p aligh="left">Aeroméxico es una compañia que busca ingenieros en el aréa de mecanica. </p>
+                        <p aligh="left">
+                        Aeroméxico es una compañia que busca ingenieros en el aréa de mecanica. </p>
                     </div>
-                </div>
-
-
+             
                 </div>
             </div>
         </section>
