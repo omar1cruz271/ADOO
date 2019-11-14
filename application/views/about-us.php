@@ -14,7 +14,7 @@
                     <div class="card clean-card text-center">
                         <div class="card-body info">
                             <h4 class="card-title">Sandra Calderón</h4>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p class="card-text">Carrera: Ing. Mecanica</p>
                             <div class="icons"><a href="#"><i class="icon-social-facebook"></i></a><a href="#"><i class="icon-social-instagram"></i></a><a href="#"><i class="icon-social-twitter"></i></a></div>
                         </div>
                     </div>
@@ -23,7 +23,7 @@
                     <div class="card clean-card text-center">
                         <div class="card-body info">
                             <h4 class="card-title">Omar Cruz</h4>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p class="card-text">Carrera: Ing. Sistemas Computacionales.</p>
                             <div class="icons"><a href="#"><i class="icon-social-facebook"></i></a><a href="#"><i class="icon-social-instagram"></i></a><a href="#"><i class="icon-social-twitter"></i></a></div>
                         </div>
                     </div>
@@ -32,7 +32,7 @@
                     <div class="card clean-card text-center">
                         <div class="card-body info">
                             <h4 class="card-title">Karen Cruz</h4>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p class="card-text">Carrera: Ing. Comunicaciones y electrónica.</p>
                             <div class="icons"><a href="#"><i class="icon-social-facebook"></i></a><a href="#"><i class="icon-social-instagram"></i></a><a href="#"><i class="icon-social-twitter"></i></a></div>
                         </div>
                     </div>
