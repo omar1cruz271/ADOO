@@ -22,9 +22,9 @@
             <div class="row align-items-center">
                 <div class="col-md-6"><img class="img-thumbnail" src="assets/img/oferta.jpg"></div>
                 <div class="col-md-6">
-                    <h3>Lorem impsum dolor sit amet</h3>
+                    <h3>¡Únete a nosotros!</h3>
                     <div class="getting-started-info">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <p>Podrás encontrar a tu mejor empleado</p>
                     </div><button class="btn btn-outline-primary btn-lg" type="button">Join Now</button></div>
             </div>
         </div>
