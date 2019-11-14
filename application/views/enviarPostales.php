@@ -30,8 +30,11 @@
                     </a></div>
                 
                     <div class="getting-started-info">
-                        <p>Aeroméxico es un sitio para todas aquellas personas que quieran visitar y viajar distintos lugares a travez de toda la republica mexicana</p>
+                    
+                        <p align="left">Aeroméxico es un sitio para todas aquellas personas que quieran visitar y viajar distintos lugares a travez de toda la republica mexicana</p>
+                   
                     </div>
+
              
                 </div>
             </div>
