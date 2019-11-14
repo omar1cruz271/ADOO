@@ -41,9 +41,9 @@
 
                 <div class="">
 
-                <p> Localidad </p>
+                <p> Localidad: Av. Capitán Carlos León S/N, Peñón de los Baños, Venustiano Carranza, 15620 Ciudad de México, CDMX </p>
                 <p> </p>
-                
+                <p> </p>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13554.431622418975!2d-99.07695229381177!3d19.43344534362108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2d07ef561bad244!2sAeropuerto%20Internacional%20de%20la%20Ciudad%20de%20M%C3%A9xico!5e0!3m2!1ses-419!2smx!4v1573708481778!5m2!1ses-419!2smx" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                 </div>
             </div>
