@@ -6,7 +6,7 @@
     
     <section class="clean-block clean-hero" style="background-image:url(&quot;assets/img/tech/img1.jpg&quot;);color:rgba(0,0,0,.6);">
         <div class="text">
-            <h2>¡BIENVENIDO!</h2>
+            <h1>¡BIENVENIDO!</h1>
             <p>Encuentra las ofertas de trabajo más cercanas a tu localidad.</p>
             <form action="POST"><button class="btn btn-outline-light btn-lg" type="button"  onclick=" location.href='<?php base_url(); ?>login'">Empieza ahora</button></div>
             </form>

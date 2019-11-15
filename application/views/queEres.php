@@ -1,7 +1,6 @@
 <body id=bodyEres >
 <link rel="stylesheet" href="<?php base_url(); ?>assets/css/queEres.css">
         
-        
         <div id="container1" class="container">
                
             <!-- class="responsive-img"-->
